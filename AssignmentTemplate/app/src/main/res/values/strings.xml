@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movie database</string>
+    <string name="idMovieHint">" Id of movie (1-6)"</string>
+    <string name="SearchButton">Search</string>
+</resources>
